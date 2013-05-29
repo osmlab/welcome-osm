@@ -1,0 +1,42 @@
+a {
+    color:darkgreen;
+}
+
+a:hover {
+    background:lightyellow;
+}
+
+.fillL {
+    background:#f5f5f5;
+}
+
+.fillG {
+    background:#C9EBBA;
+}
+
+.no-margin {
+    margin:0;
+}
+
+h2 {
+    font-family:'Merriweather',Georgia,serif;
+    font-weight:normal;
+    font-size:30px;
+}
+
+h3 {
+    text-transform:uppercase;
+}
+
+span.step {
+    display:inline-block;
+    width:30px;
+    height:30px;
+    background:#fff;
+    color:#666;
+    border:1px solid #aaa;
+    text-align:center;
+    margin-right:10px;
+    vertical-align:center;
+    border-radius:15px;
+}

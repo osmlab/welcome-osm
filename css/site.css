@@ -15,7 +15,9 @@ a:hover {
 }
 
 .fillG {
-    background:#DBF1D1;
+    background-color:#DBF1D1;
+    background-image:url(osm.png);
+    background-size:100% auto;
 }
 
 .no-margin {
@@ -97,3 +99,35 @@ em {
 .sprite.x {
     background-position:-50px 0;
 }
+
+.sprite.term {
+    margin-right:10px;
+    vertical-align:middle;
+}
+
+.sprite.node {
+    background-position:-100px 0;
+}
+
+.sprite.way {
+    background-position:-150px 0;
+}
+
+.sprite.changeset {
+    background-position:-200px 0;
+}
+
+.sprite.editor {
+    background-position:-250px 0;
+}
+
+.small {
+    font-size:small;
+}
+
+.deemphasize a {
+    text-decoration:none;
+    color:#DD9D92;
+    border-bottom:1px solid #E9B7AE;
+}
+

@@ -10,8 +10,12 @@ a:hover {
     background:#f5f5f5;
 }
 
+.fillE {
+    background:#eee;
+}
+
 .fillG {
-    background:#C9EBBA;
+    background:#DBF1D1;
 }
 
 .no-margin {
@@ -26,6 +30,8 @@ h2 {
 
 h3 {
     text-transform:uppercase;
+    padding-bottom:5px;
+    border-bottom:solid 2px #eee;
 }
 
 span.step {
@@ -34,9 +40,60 @@ span.step {
     height:30px;
     background:#fff;
     color:#666;
-    border:1px solid #aaa;
     text-align:center;
     margin-right:10px;
     vertical-align:center;
-    border-radius:15px;
+}
+
+em {
+    font-style:normal;
+    background:lightyellow;
+    padding:2px;
+}
+
+.drop {
+    margin-top:80px;
+}
+
+.huge {
+    padding:20px 40px;
+    font-size:30px;
+}
+
+.button.medium {
+    padding:5px 10px;
+    font-size:14px;
+    background:#F5C1BD;
+    color:#222;
+}
+
+.button {
+    background:#eb6f67;
+    color:#fff;
+    text-align:center;
+    text-decoration:none;
+    border:none;
+    border-radius:5px;
+    font-weight:normal;
+    border-bottom:1px solid #A53931;
+    transition:background 100ms linear;
+}
+
+.button:hover {
+    background:#EB8C85;
+}
+
+.sprite {
+    background-image:url(sprite.png);
+    background-size:500px 250px;
+    display:inline-block;
+}
+
+.sprite.small {
+    width:50px;
+    height:50px;
+}
+
+.sprite.x {
+    background-position:-50px 0;
 }

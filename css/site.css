@@ -1,9 +1,16 @@
 a {
     color:darkgreen;
+    text-decoration:none;
+    border-bottom:1px solid #BCD4BC;
 }
 
 a:hover {
     background:lightyellow;
+}
+
+abbr {
+    text-decoration:none;
+    border-bottom:1px solid #eee;
 }
 
 .fillL {
@@ -16,8 +23,6 @@ a:hover {
 
 .fillG {
     background-color:#DBF1D1;
-    background-image:url(osm.png);
-    background-size:100% auto;
 }
 
 .no-margin {
@@ -25,7 +30,7 @@ a:hover {
 }
 
 h2 {
-    font-family:'Merriweather',Georgia,serif;
+    font-family:'Merriweather', Georgia, serif;
     font-weight:normal;
     font-size:30px;
 }
@@ -128,6 +133,10 @@ em {
 
 .sprite.editor {
     background-position:-250px 0;
+}
+
+.sprite.question {
+    background-position:-300px 0;
 }
 
 .small {

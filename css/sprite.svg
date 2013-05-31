@@ -27,9 +27,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.512"
-     inkscape:cx="492.47061"
-     inkscape:cy="50.427111"
+     inkscape:zoom="4.7683716"
+     inkscape:cx="637.81504"
+     inkscape:cy="453.55804"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true">
@@ -501,5 +501,43 @@
          id="tspan4362"
          x="539.51611"
          y="782.68475">Skobbler</tspan></text>
+    <rect
+       style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.99999994;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect3834-6-3-8"
+       width="100"
+       height="100"
+       x="600"
+       y="552.36218" />
+    <path
+       sodipodi:type="arc"
+       style="color:#000000;fill:#95cdcf;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.99999994;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="path2987-7-7-2"
+       sodipodi:cx="42.5"
+       sodipodi:cy="42.5"
+       sodipodi:rx="42.5"
+       sodipodi:ry="42.5"
+       d="m 85,42.5 a 42.5,42.5 0 1 1 -85,0 42.5,42.5 0 1 1 85,0 z"
+       transform="matrix(1.0588235,0,0,1.0588235,605,557.36218)" />
+    <path
+       sodipodi:type="arc"
+       style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.99999994000000003;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="path2987-7-7-2-6"
+       sodipodi:cx="42.5"
+       sodipodi:cy="42.5"
+       sodipodi:rx="42.5"
+       sodipodi:ry="42.5"
+       d="m 85,42.5 a 42.5,42.5 0 1 1 -85,0 42.5,42.5 0 1 1 85,0 z"
+       transform="matrix(0.94117644,0,0,0.94117644,610,562.36218)" />
+    <text
+       xml:space="preserve"
+       style="font-size:75.74924468999998339px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:120.00000476999998966%;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#202020;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.05882347000000010;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Open Sans;-inkscape-font-specification:Open Sans Bold"
+       x="633.5"
+       y="629.86218"
+       id="text4436"
+       sodipodi:linespacing="120%"><tspan
+         sodipodi:role="line"
+         id="tspan4438"
+         x="633.5"
+         y="629.86218">?</tspan></text>
   </g>
 </svg>

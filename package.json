@@ -1,0 +1,23 @@
+{
+  "name": "welcome-osm",
+  "version": "0.0.0",
+  "description": "A mid-jump site intended to make the introduction of new users to OpenStreetMap gentler than simply linking to the `/edit` view.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/osmlab/welcome-osm.git"
+  },
+  "author": "",
+  "license": "BSD",
+  "readmeFilename": "README.md",
+  "gitHead": "53159108fbff84c4c0497956e1a666b50fbb0b11",
+  "bugs": {
+    "url": "https://github.com/osmlab/welcome-osm/issues"
+  },
+  "dependencies": {
+    "store": "~1.3.8"
+  }
+}
